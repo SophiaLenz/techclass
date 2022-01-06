@@ -1,0 +1,53 @@
+body { font-family: Georgia; 
+    color: rgb(30, 30, 30);
+    margin: 4em;
+font-size: 100%; line-height: 1.5em; }
+
+h1 {
+    text-align: center;
+    font-size: 1.2em;
+    text-transform: uppercase;
+  }
+
+h2 {
+    font-size: 1em;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 5em;
+}
+
+h3 {
+    font-size: 0.9em;
+    text-transform: uppercase;
+    margin-bottom: 0;
+
+}
+
+  hr {
+    display:block;
+    border:0px;
+    height: 20px;
+    background-image:url('hr.png');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.center {
+text-align: center;
+}
+.left {text-align: left;}
+.right {text-align: right;}
+
+table{
+width: 99%;
+margin-bottom: 1em ;
+padding: 0;
+}
+td{
+    width: 50%;
+}
+tr, td {margin: 0; padding: 0;}
+
+ul, li {margin: 0; }
+
+
